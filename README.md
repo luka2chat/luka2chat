@@ -14,21 +14,11 @@ Building tools for game data tracking & generative engine optimization.
 
 ## 🛠️ Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-22-339933?logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=github-actions&logoColor=white)
-![VitePress](https://img.shields.io/badge/VitePress-Docs-646CFF?logo=vite&logoColor=white)
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luka2chat&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka2chat&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-22-339933?logo=node.js&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=github-actions&logoColor=white&style=flat)
+![VitePress](https://img.shields.io/badge/VitePress-Docs-646CFF?logo=vite&logoColor=white&style=flat)
 
 ## 📫 Connect
 
