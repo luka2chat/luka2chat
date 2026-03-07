@@ -1,30 +1,35 @@
-# Hi, I'm Luka 👋
+<div align="center">
 
-**Building tools for geo data & game records | Open source enthusiast**
+# Hey, I'm Luka 👋
+
+**Independent Developer** · Building tools for game data tracking & generative engine optimization
+
+[![Website](https://img.shields.io/badge/luka2chat.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://luka2chat.com)
+[![GitHub](https://img.shields.io/badge/@luka2chat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luka2chat)
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+| Project | Description |
+|---------|-------------|
+| [awesome-geo](https://github.com/luka2chat/awesome-geo) | 🌍 Curated list of Generative Engine Optimization resources |
+| [clawrecord](https://github.com/luka2chat/clawrecord) | 🐾 Gamified OpenClaw tracking system — Duolingo for your AI assistant |
+| [clawrecord-leaderboard](https://github.com/luka2chat/clawrecord-leaderboard) | 🏆 Decentralized global leaderboard for OpenClaw tamers |
 
 ## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VitePress](https://img.shields.io/badge/-VitePress-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 🔥 Projects
-
-| Project | Description |
-|---------|-------------|
-| [awesome-geo](https://github.com/luka2chat/awesome-geo) | 🌍 A curated list of awesome GEO / geography / GIS resources |
-| [clawrecord](https://github.com/luka2chat/clawrecord) | 🐾 Game record tracking system |
-| [clawrecord-leaderboard](https://github.com/luka2chat/clawrecord-leaderboard) | 🏆 Global gaming leaderboard |
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luka2chat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka2chat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
 ## 🌱 Currently
 
@@ -32,10 +37,20 @@
 - 🎮 Developing **ClawRecord** — game tracking & leaderboard system
 - 📖 Always learning, always building
 
-## 📫 Connect
+## 📊 GitHub Stats
 
-- 🌐 Website: [luka2chat.com](https://luka2chat.com)
-- 🐙 GitHub: [@luka2chat](https://github.com/luka2chat)
+<div align="center">
+
+<a href="https://github.com/luka2chat">
+  <img height="170" src="https://readme-stats-fast.vercel.app/api?username=luka2chat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</a>
+<a href="https://github.com/luka2chat">
+  <img height="170" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=luka2chat&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=luka2chat&theme=tokyonight&hide_border=true&background=00000000)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
