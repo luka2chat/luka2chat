@@ -42,10 +42,10 @@
 <div align="center">
 
 <a href="https://github.com/luka2chat">
-  <img height="170" src="https://github-readme-stats-navy-five-75.vercel.app/api?username=luka2chat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats-navy-five-75.vercel.app/api?username=luka2chat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&cache_seconds=1800" />
 </a>
 <a href="https://github.com/luka2chat">
-  <img height="170" src="https://github-readme-stats-navy-five-75.vercel.app/api/top-langs/?username=luka2chat&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats-navy-five-75.vercel.app/api/top-langs/?username=luka2chat&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=luka2chat&theme=tokyonight&hide_border=true&background=00000000)](https://git.io/streak-stats)
