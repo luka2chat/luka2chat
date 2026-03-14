@@ -6,6 +6,7 @@
 
 [![Website](https://img.shields.io/badge/luka2chat.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://luka2chat.com)
 [![GitHub](https://img.shields.io/badge/@luka2chat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luka2chat)
+[![Twitter](https://img.shields.io/badge/@luka2chat-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/luka2chat)
 
 </div>
 
