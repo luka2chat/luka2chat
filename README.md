@@ -2,7 +2,7 @@
 
 # Hey, I'm Luka 👋
 
-**Independent Developer** · Building tools for game data tracking & generative engine optimization
+**Indie Maker** · Shipping products around GEO, AI agents & gaming
 
 [![Website](https://img.shields.io/badge/luka2chat.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://luka2chat.com)
 [![GitHub](https://img.shields.io/badge/@luka2chat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luka2chat)
@@ -35,9 +35,9 @@
 
 ## 🌱 Currently
 
-- 🔭 Working on **awesome-geo** — building the best GEO resource list
-- 🎮 Developing **ClawRecord** — game tracking & leaderboard system
-- 📖 Always learning, always building
+- 🔭 Building **awesome-geo** — the go-to GEO resource list
+- 🎮 Shipping **ClawRecord** — gamified tracking & leaderboard for OpenClaw
+- 🚀 Always shipping, always learning
 
 ## 📊 GitHub Stats
 
