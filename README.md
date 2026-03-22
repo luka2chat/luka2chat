@@ -19,7 +19,6 @@
 | [awesome-geo](https://github.com/luka2chat/awesome-geo) | 🌍 Curated list of Generative Engine Optimization resources |
 | [geo-skills](https://github.com/luka2chat/geo-skills) | 🤖 Production-grade GEO best practices for AI agents |
 | [clawrecord](https://github.com/luka2chat/clawrecord) | 🐾 Gamified OpenClaw tracking system — Duolingo for your AI assistant |
-| [clawrecord-leaderboard](https://github.com/luka2chat/clawrecord-leaderboard) | 🏆 Decentralized global leaderboard for OpenClaw tamers |
 
 ## 🛠️ Tech Stack
 
